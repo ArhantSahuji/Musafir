@@ -1,0 +1,76 @@
+.cardcontainer{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 15px;
+}
+body{
+    background-color: #262626;
+}
+.card-body{
+    background-color:#2b3035;
+}
+.card-img-top{
+    height: 228.97px;
+}
+.card-text{
+    height: 72px;
+}
+.h3{
+    margin-top: 10px;
+}
+.input-group{
+    padding: 0px 500px 0px 500px;
+}
+.form-control{
+    background-color: #2b3035;
+}
+.form-control::placeholder { 
+    color: white;
+            
+}
+.btnsearch{
+    background-color: #2b3035;
+    border: 1px solid white;
+    color: white;
+}
+.customdropdowns{
+    height: 135px;
+    border-radius: 10px;
+    background-color: #2b3035;
+    
+}
+.customdropdownshead{
+    height: 65px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0px;
+}
+.btncustom{
+    width: 250px;
+    height: 40px;
+    display: flex;
+    /* position: absolute;
+    left: 20px; */
+}
+.btncustomicon1{
+    margin-left: 163px;
+}
+.btncustomicon2{
+    margin-left: 175px;
+}
+.btncustomicon3{
+    margin-left: 183px;
+}
+.dropdown-toggle::after {
+    display: none;
+} 
+.navaccount{
+    display: flex;
+}
+.accounticon{
+    margin-left: 5px;
+}
